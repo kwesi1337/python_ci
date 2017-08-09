@@ -10,4 +10,4 @@ dependencies:
 
 test:
   override:
-    - nosetests tests/math-test.py
+    - nosetests test/math-test.py
